@@ -117,8 +117,8 @@
 ### Prerequisites
 
 - Python 3.11+
-- Band.ai account (free with `BANDHACK26` promo code)
-- Groq API key (free: https://console.groq.com)
+- Band.ai account 
+- Groq API key 
 
 ### Installation
 
