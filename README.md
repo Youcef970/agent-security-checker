@@ -124,7 +124,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/agent-security-checker.git
+git clone https://github.com/Youcef970/agent-security-checker.git
 cd agent-security-checker
 
 # 2. Install dependencies
